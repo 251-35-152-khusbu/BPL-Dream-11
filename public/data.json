@@ -1,0 +1,63 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "image": "https://www.bssnews.net/assets/news_photos/2024/05/11/image-188464-1715432155.jpg",
+    "Playing": "Bangladesh",
+    "origin": "Bangladesh",
+    "Playertype": "All-rounder",
+    "bowlingstyle": "Left-arm orthodox",
+    "battingstyle": "Left-handed",
+    "price": 800
+  },
+  {
+    "playerName": "Virat Kohli",
+    "image": "https://static-files.cricket-australia.pulselive.com/headshots/440/10917-camedia.png",
+    "Playing": "India",
+    "origin": "India",
+    "Playertype": "Batter",
+    "bowlingstyle": "Right-arm medium",
+    "battingstyle": "Right-handed",
+    "price": 1200
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsZkkZiLircgYdN1nNbBMaUAe8KNlt9rHVGuFR_kERw&s=10g",
+    "Playing": "India",
+    "origin": "India",
+    "Playertype": "Bowler",
+    "bowlingstyle": "Right-arm fast",
+    "battingstyle": "Right-handed",
+    "price": 1000
+  },
+  {
+    "playerName": "Babar Azam",
+
+    "Playing": "Pakistan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMsE4JjBIeR5PPH_9CmKkNPw-4j6vQeXEK96gPqltsg&s=10g",
+    "origin": "Pakistan",
+    "Playertype": "Batter",
+    "bowlingstyle": "Right-arm off-break",
+    "battingstyle": "Right-handed",
+    "price": 900
+  },
+  {
+    "playerName": "Rashid Khan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQB7Sq9adtKcWbvS3wLl3je7JI9kI4KLissVxz6_nOOQ&s=10g",
+    "Playing": "Afghanistan",
+    "origin": "Afghanistan",
+    "Playertype": "Bowler",
+    "bowlingstyle": "Right-arm leg-break",
+    "battingstyle": "Right-handed",
+    "price": 1100
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzixQ8pY-SZThZxYg595o5E5l-9RtioN0B2DbtQsMdcQ&s=10g",
+    "Playing": "India",
+    "origin": "India",
+    "Playertype": "All-rounder",
+    "bowlingstyle": "Right-arm fast-medium",
+    "battingstyle": "Right-handed",
+    "price": 500
+  }
+]
